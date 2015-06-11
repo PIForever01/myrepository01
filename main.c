@@ -1,5 +1,8 @@
+#include "test.h"
+
 #include <stdio.h>
 #include <stdlib.h>
+
 
 void hello(void)
 {
@@ -7,8 +10,9 @@ void hello(void)
     return 0;
 }
 
+
 int main()
 {
+	test();
     hello();
 }
-

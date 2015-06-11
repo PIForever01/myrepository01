@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1434002082 source:c:\users\paramonenko\documents\github\myrepository01\test.c
+	"test.h"
+	<stdio.h>
+
+1434002088 c:\users\paramonenko\documents\github\myrepository01\test.h
+
