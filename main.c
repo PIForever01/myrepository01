@@ -7,6 +7,7 @@
 void hello(void)
 {
     printf("Hello world!\n");
+    printf("sadlf;jsdfl;as");
     return 0;
 }
 
